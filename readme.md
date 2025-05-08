@@ -1,4 +1,4 @@
-# Fetch Api
+# Temp Conversion Application
 
 This repo contains the source code of the Temp Conversion Application using JavaScript DOM, learn how to see more deeply about how DOM works and explore the concept of JavaScript.
 
